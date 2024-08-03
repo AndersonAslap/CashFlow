@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3DOf4EJhtmpYYyjegl/VHxkN1S4s87BF946XYnrMVWZ1mukkLDgSTfPM3DxZC6plEAUBYYsFxsapXPIA5nTrDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aslap\\Desktop\\estudos\\asp-net\\rocketseat\\module-05\\CashFlow\\tests\\CommonTestUtilities\\CommonTestUtilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aslap\\.nuget\\packages\\bogus\\35.6.0\\bogus.35.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
